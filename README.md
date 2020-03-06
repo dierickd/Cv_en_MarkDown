@@ -13,7 +13,7 @@
   **Email** *dierickd@outlook.fr*  
   **Portfolio** *[dierick-dewi.fr](https://dierick-dewi.fr/)*  
 
-Passionné par le développement, ce goût de la programmation m'est venu par le VBA Excel, ma curiosité m'a conduit à entreprendre une formation au sein de la Wild Code School. Actuellement en formation je recherche une entreprise dans laquelle je pourrais ********* et parfaire ma reconversion professionnelle.
+Passionné par le développement, ce goût de la programmation m'est venu par le VBA Excel, ma curiosité m'a conduit à entreprendre une formation au sein de la Wild Code School. Actuellement en formation je recherche une entreprise dans laquelle je pourrais parfaire ma reconversion professionnelle.
 
 > ## Formations
 
