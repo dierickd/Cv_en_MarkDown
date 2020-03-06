@@ -4,6 +4,10 @@
 
 ![](https://github.com/dierickd/Cv_en_MarkDown/blob/master/me.jpg)
 
+**DIERICK Déwi**  
+  92 boulevard de châteaudun
+
+
 De nature curieux, blabla
 
   
