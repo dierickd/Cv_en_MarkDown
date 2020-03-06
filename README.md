@@ -5,7 +5,11 @@
 ![](https://github.com/dierickd/Cv_en_MarkDown/blob/master/me.jpg)
 
 **DIERICK Déwi**  
-  92 boulevard de châteaudun
+  92 boulevard de châteaudun  
+  45000 Orléans
+  **Phone** 06.64.94.91.43
+  **Email** dierickd@outlook.fr
+  **Portfolio** [dierick-dewi.fr](https://dierick-dewi.fr/)
 
 
 De nature curieux, blabla
