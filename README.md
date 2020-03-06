@@ -13,3 +13,12 @@ De nature curieux, blabla
   *Orléans 45*  
   *mars 2020 - aujourd'hui*  
   Développeur PHP/Symfony
+
+**OpenClassRooms**  
+  *Distance*  
+  *sept 2018 - mars 2019*  
+  Développeur web junior
+
+
+## Expérience professionnelle
+
