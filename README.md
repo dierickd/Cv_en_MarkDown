@@ -9,7 +9,7 @@ De nature curieux, blabla
 
 ## Formations
 
-**Wild Code School**
-*Orléans 45*
-*mars 2020 - aujourd'hui*
-Développeur PHP/Symfony
+**Wild Code School**  
+  *Orléans 45*  
+  *mars 2020 - aujourd'hui*  
+  Développeur PHP/Symfony
