@@ -32,3 +32,9 @@ De nature curieux, blabla
   Poste occupés:
   Adjoint responsable de site - Co-site - Chef d'équipe - opérateur vidéo  
   inspecteur magasin - SSIPA1 - agent de sûreté aéroportuaire
+
+
+
+> ## Hobbies  
+
+Billard - film horreurs - thrillers - Science-fiction
