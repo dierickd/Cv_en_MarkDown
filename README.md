@@ -8,7 +8,7 @@ De nature curieux, blabla
 
 
 
-## Formations
+> ## Formations
 
 **Wild Code School**  
   *Orléans 45  
@@ -22,7 +22,7 @@ De nature curieux, blabla
 
 
 
-## Expérience professionnelle
+> ## Expérience professionnelle
 
 **Securitas France**  
   *Agence Saran 45  
