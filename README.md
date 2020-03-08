@@ -26,7 +26,8 @@ Passionné par le développement, ce goût de la programmation m'est venu par le
 **OpenClassRooms**  
   *Distance*  
   *sept 2018 - mars 2019*  
-  Développeur web junior
+  Développeur web junior  
+  (PHP, POO, JS, JQuery, sass, twig, wysiwyg, MVC)
 
 
 
